@@ -1,4 +1,3 @@
-# Finviz-Elite-Refresh-Overhaul
 # 🚀 Finviz Elite Refresh Overhaul
 
 A custom Tampermonkey script designed specifically for **Finviz Elite** users to solve the biggest pain point of active screening: **slow refresh speeds**. This script injects significantly faster, custom refresh buttons directly into the screener interface.
