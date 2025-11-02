@@ -33,7 +33,7 @@ This script replaces the default refresh options with a robust set of custom con
 1.  Ensure you have a modern userscript manager installed (e.g., **Tampermonkey** for Chrome/Firefox, or **Violentmonkey**).
 2.  Click the direct installation link below:
 
-4.  [**DOWNLOAD**]**(https://github.com/Anthony-Creates/Finviz-Elite-Refresh-Overhaul/raw/refs/heads/main/Finviz%20Elite%20Refresh%20Overhaul.user.js)**
+4.  [download]([PASTE_YOUR_FULL_LINK_URL_HERE](https://github.com/Anthony-Creates/Finviz-Elite-Refresh-Overhaul/raw/refs/heads/main/Finviz%20Elite%20Refresh%20Overhaul.user.js))
 
 5.  Tampermonkey will open and prompt you to install the script. Click **"Install."**
 6.  Navigate to or reload your Finviz Elite Screener page (`https://elite.finviz.com/screener.ashx*`). The new refresh buttons will replace the old ones.
